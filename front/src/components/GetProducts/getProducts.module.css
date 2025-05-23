@@ -1,0 +1,11 @@
+
+.containerCard{
+    width: 80%;
+    height: 50%;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin: 20px auto 20px auto;
+   
+    
+}

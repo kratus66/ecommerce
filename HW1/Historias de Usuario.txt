@@ -1,0 +1,26 @@
+1.el usuario ingresa al home donde encontrará: 
+una imagen de la empresa, que  resalte el logotipo. 
+* una navbar/barra de navegacion con informacion de la empresa:
+
+Listas desplegables que presenten: 
+
+La empresa (o nombre de la empresa):mision, vision, objetivos
+portafolio empresarial, estructura organizaciona y TH, Trabaja con nosotros o convocatorias. 
+
+
+otro lista desplegable con los servicios o productos que ofrece la empresa de forma sectorizada. 
+
+otro link de contactenos que nos llevara al pie de pagina donde se encontrará toda la informacion  
+
+dos botones, uno para iniciar sesion: que nos llevara a una vista para introducir usuario y contraseña y boton de enviar
+otro para registrarse, donde se llevara a una vista donde podra ver diferentes vistas dependiendo las necesidades de la empresa.
+
+de bajo del navbar un carrusel con imagenes informativas 
+
+en el cuerpo de la pagina inforacion de interes, puede ser de servicios o productos, o noticias destacadas. 
+
+no abra secciones a los lados, mas bien un margen centrado del body (se podria crear secciones para paginas de e-commerce)
+
+y para terminar el pie de pagina con toda la informacion de contacto de la empresa. 
+ 
+
