@@ -77,29 +77,3 @@ El frontend correrá por defecto en [http://localhost:3000](http://localhost:300
   Email: diegoherrera1685@hotmail.com
 </p>
 
-
-# Instalar dependencias del frontend
-cd ../front
-npm install
-```
-
----
-
-## 🚀 Cómo ejecutar en local
-
-### Backend
-
-```bash
-cd back
-# Asegúrate de tener configurado un archivo .env con tu base de datos PostgreSQL
-npm run start
-```
-
-### Frontend
-
-```bash
-cd front
-npm run dev
-```
-
-El frontend correrá por defecto en [http://localhost:3000](http://localhost:3000) y el backend en [http://localhost:3001](http://localhost:3001) (o según tu configuración).
